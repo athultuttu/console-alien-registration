@@ -1,0 +1,13 @@
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\obj\Debug\PdfWriter.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\PdfWriter.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\PdfWriter.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\AlienRegistrationCoreLibrary.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\PdfSharp.Charting.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\PdfSharp.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\AlienRegistrationCoreLibrary.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\PdfSharp.xml
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\PdfSharp.Charting.xml
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\de\PdfSharp.resources.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\obj\Debug\PdfWriter.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\PdfWriter\obj\Debug\PdfWriter.pdb

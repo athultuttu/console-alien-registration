@@ -1,0 +1,7 @@
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\bin\Debug\TextWriter.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\bin\Debug\TextWriter.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\bin\Debug\AlienRegistrationCoreLibrary.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\bin\Debug\AlienRegistrationCoreLibrary.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\obj\Debug\TextWriter.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\obj\Debug\TextWriter.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\TextWriter\obj\Debug\TextWriter.csprojResolveAssemblyReference.cache

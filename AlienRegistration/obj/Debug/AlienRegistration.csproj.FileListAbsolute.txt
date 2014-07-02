@@ -1,0 +1,17 @@
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\AlienRegistration.exe
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\AlienRegistration.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\AlienRegistrationCoreLibrary.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\AlienRegistrationCoreLibrary.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\obj\Debug\AlienRegistration.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\obj\Debug\AlienRegistration.exe
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\obj\Debug\AlienRegistration.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\PdfSharp.Charting.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\PdfSharp.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\PdfSharp.xml
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\PdfSharp.Charting.xml
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\de\PdfSharp.resources.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\AlienRegistration.exe.manifest
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\bin\Debug\AlienRegistration.application
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\obj\Debug\AlienRegistration.exe.manifest
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistration\obj\Debug\AlienRegistration.application

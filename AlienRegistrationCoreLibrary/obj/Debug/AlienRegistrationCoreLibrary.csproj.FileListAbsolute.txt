@@ -1,0 +1,10 @@
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\AlienRegistrationCoreLibrary.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\AlienRegistrationCoreLibrary.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\obj\Debug\AlienRegistrationCoreLibrary.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\obj\Debug\AlienRegistrationCoreLibrary.pdb
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\PdfSharp.Charting.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\PdfSharp.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\PdfSharp.xml
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\PdfSharp.Charting.xml
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\de\PdfSharp.resources.dll
+D:\Visual Studio 2013\Projects\AlienRegistration\AlienRegistrationCoreLibrary\bin\Debug\de\PdfSharp.Charting.resources.dll
